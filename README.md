@@ -1,3 +1,25 @@
+## React Tic-Tac-Toe App (Learning react basics)
+
+This is a project from react docs.
+* The objective is to create a tic-tac-toe game using react from the instruction on the [react tutorial page](https://reactjs.org/tutorial/tutorial.html) 
+* The project was completed using react
+
+#### [Live link](https://bolabuari.com/tic-tac-toe-react/)
+
+#### ScreenShot
+* coming soon !
+
+#### Author
+* [@bolah2009](https://github.com/bolah2009/)
+
+#### Contact
+* [Web](https://bolabuari.com/)  -  [Twitter](https://twitter.com/bolah2009)  -  [GitHub](https://github.com/bolah2009/)  -  [GitLab](https://gitlab.com/bolah2009/)  -  [LinkedIn](https://www.linkedin.com/in/bolah2009/)
+
+
+--------------------
+--------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
